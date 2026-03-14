@@ -1,6 +1,6 @@
 ## Project Presentation
 
-[Download PPT](YMCAHackForce_UrbanSolutions (1).pptx)
+[Download PPT](YMCAHackForce_UrbanSolutions.pptx)
 
 ## 🎥 Project Demo
 
