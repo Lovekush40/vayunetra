@@ -2,6 +2,9 @@
 
 [Download PPT](YMCAHackForce_UrbanSolutions.pptx)
 
+## 🎥 Project Demo
+
+[![Watch the video](https://img.youtube.com/vi/jsn--Pa6c94/0.jpg)](https://www.youtube.com/watch?v=jsn--Pa6c94)
 
 # 🌍 VayuNetra – Smart Urban Air Pollution Monitoring System
 
