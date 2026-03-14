@@ -15,10 +15,8 @@
 
 # 👥 Team Members
 - Hardik Dang  
-- Nandini  
-- Himanshu  
+- Nandini   
 - Gourav  
-- Parv Singla  
 - Lovekush  
 
 ---
